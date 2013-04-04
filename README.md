@@ -1,0 +1,1 @@
+Python script by Dylan Hallegraeff for the "Elegante Algoritmen" competition of SETUP Utrecht
